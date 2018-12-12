@@ -176,7 +176,7 @@ namespace HighLevelClient
             CreateIndex(client);
             IndexPdfContent(GetPdfFilePaths(RootDirectory), IndexName, client);
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Done processing everything.");
+            Console.WriteLine("Done processing everything. Now you can query your PDF content using kibana or NEST.");
             Console.ResetColor();
         }
         static void Main(string[] args)
