@@ -1,0 +1,11 @@
+C:\users\ishahrie\Desktop\Projects\ElasticSearch\HighLevelClient\bin\Debug\netcoreapp2.2\HighLevelClient.deps.json
+C:\users\ishahrie\Desktop\Projects\ElasticSearch\HighLevelClient\bin\Debug\netcoreapp2.2\HighLevelClient.runtimeconfig.json
+C:\users\ishahrie\Desktop\Projects\ElasticSearch\HighLevelClient\bin\Debug\netcoreapp2.2\HighLevelClient.runtimeconfig.dev.json
+C:\users\ishahrie\Desktop\Projects\ElasticSearch\HighLevelClient\bin\Debug\netcoreapp2.2\HighLevelClient.dll
+C:\users\ishahrie\Desktop\Projects\ElasticSearch\HighLevelClient\bin\Debug\netcoreapp2.2\HighLevelClient.pdb
+C:\users\ishahrie\Desktop\Projects\ElasticSearch\HighLevelClient\obj\Debug\netcoreapp2.2\HighLevelClient.csprojAssemblyReference.cache
+C:\users\ishahrie\Desktop\Projects\ElasticSearch\HighLevelClient\obj\Debug\netcoreapp2.2\HighLevelClient.csproj.CoreCompileInputs.cache
+C:\users\ishahrie\Desktop\Projects\ElasticSearch\HighLevelClient\obj\Debug\netcoreapp2.2\HighLevelClient.AssemblyInfoInputs.cache
+C:\users\ishahrie\Desktop\Projects\ElasticSearch\HighLevelClient\obj\Debug\netcoreapp2.2\HighLevelClient.AssemblyInfo.cs
+C:\users\ishahrie\Desktop\Projects\ElasticSearch\HighLevelClient\obj\Debug\netcoreapp2.2\HighLevelClient.dll
+C:\users\ishahrie\Desktop\Projects\ElasticSearch\HighLevelClient\obj\Debug\netcoreapp2.2\HighLevelClient.pdb
