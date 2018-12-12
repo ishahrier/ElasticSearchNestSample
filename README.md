@@ -1,4 +1,4 @@
-# ElasticSearchNestSample - Indexing PDF content
+# ElasticSearch - Indexing PDF content - Using DotnetCore and NEST (official dotnet client)
 
 This sample project uses NEST (high level elasticsearch dot net core client) and shows how to do the following things
 
